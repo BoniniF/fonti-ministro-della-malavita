@@ -1,0 +1,874 @@
+{
+ "VOC01-0100": {
+  "meta": [
+   "I",
+   "1",
+   "20 dicembre 1908"
+  ],
+  "maxpage": null
+ },
+ "VOC01-0200": {
+  "meta": [
+   "I",
+   "2",
+   "27 dicembre 1908"
+  ],
+  "maxpage": null
+ },
+ "VOC01-0300": {
+  "meta": [
+   "I",
+   "3",
+   "3 gennaio 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-0400": {
+  "meta": [
+   "I",
+   "4",
+   "7 gennaio 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-0500": {
+  "meta": [
+   "I",
+   "5",
+   "14 gennaio 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-0600": {
+  "meta": [
+   "I",
+   "6",
+   "21 gennaio 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-0700": {
+  "meta": [
+   "I",
+   "7",
+   "28 gennaio 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-0800": {
+  "meta": [
+   "I",
+   "8",
+   "4 febbraio 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-0900": {
+  "meta": [
+   "I",
+   "9",
+   "11 febbraio 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-1000": {
+  "meta": [
+   "I",
+   "10",
+   "18 febbraio 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-1100": {
+  "meta": [
+   "I",
+   "11",
+   "25 febbraio 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-1200": {
+  "meta": [
+   "I",
+   "12",
+   "4 marzo 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-1300": {
+  "meta": [
+   "I",
+   "13",
+   "11 marzo 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-1400": {
+  "meta": [
+   "I",
+   "14",
+   "18 marzo 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-1500": {
+  "meta": [
+   "I",
+   "15",
+   "25 marzo 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-1600": {
+  "meta": null,
+  "maxpage": null
+ },
+ "VOC01-1700": {
+  "meta": [
+   "I",
+   "17",
+   "8 aprile 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-1800": {
+  "meta": [
+   "I",
+   "18",
+   "15 aprile 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-1900": {
+  "meta": [
+   "I",
+   "19",
+   "22 aprile 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-2000": {
+  "meta": [
+   "I",
+   "20",
+   "29 aprile 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-2100": {
+  "meta": [
+   "I",
+   "21",
+   "6 maggio 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-2200": {
+  "meta": [
+   "I",
+   "22",
+   "13 maggio 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-2300": {
+  "meta": [
+   "I",
+   "23",
+   "20 maggio 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-2400": {
+  "meta": [
+   "I",
+   "24",
+   "27 maggio 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-2500": {
+  "meta": [
+   "I",
+   "25",
+   "3 giugno 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-2600": {
+  "meta": [
+   "I",
+   "26",
+   "10 giugno 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-2700": {
+  "meta": [
+   "I",
+   "27",
+   "17 giugno 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-2800": {
+  "meta": [
+   "I",
+   "28",
+   "24 giugno 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-2900": {
+  "meta": [
+   "I",
+   "29",
+   "1 luglio 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-3000": {
+  "meta": [
+   "I",
+   "30",
+   "8 luglio 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-3100": {
+  "meta": [
+   "I",
+   "31",
+   "15 luglio 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-3200": {
+  "meta": [
+   "I",
+   "32",
+   "22 luglio 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-3300": {
+  "meta": [
+   "I",
+   "33",
+   "29 luglio 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-3400": {
+  "meta": [
+   "I",
+   "34",
+   "5 agosto 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-3500": {
+  "meta": [
+   "I",
+   "35",
+   "12 agosto 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-3600": {
+  "meta": [
+   "I",
+   "36",
+   "19 agosto 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-3700": {
+  "meta": [
+   "I",
+   "37",
+   "26 agosto 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-3800": {
+  "meta": [
+   "I",
+   "38",
+   "2 settembre 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-3900": {
+  "meta": [
+   "I",
+   "39",
+   "9 settembre 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-4000": {
+  "meta": [
+   "I",
+   "40",
+   "16 settembre 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-4100": {
+  "meta": [
+   "I",
+   "41",
+   "23 settembre 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-4200": {
+  "meta": [
+   "I",
+   "42",
+   "30 settembre 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-4300": {
+  "meta": [
+   "I",
+   "43",
+   "7 ottobre 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-4400": {
+  "meta": [
+   "I",
+   "44",
+   "14 ottobre 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-4500": {
+  "meta": [
+   "I",
+   "45",
+   "21 ottobre 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-4600": {
+  "meta": [
+   "I",
+   "46",
+   "28 ottobre 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-4700": {
+  "meta": [
+   "I",
+   "47",
+   "4 novembre 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-4800": {
+  "meta": [
+   "I",
+   "48",
+   "11 novembre 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-4900": {
+  "meta": [
+   "I",
+   "49",
+   "18 novembre 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-5000": {
+  "meta": [
+   "I",
+   "50",
+   "25 novembre 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-5100": {
+  "meta": [
+   "I",
+   "51",
+   "2 dicembre 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC01-5200": {
+  "meta": [
+   "I",
+   "52",
+   "9 dicembre 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC02-0100": {
+  "meta": [
+   "II",
+   "1",
+   "16 dicembre 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC02-0200": {
+  "meta": [
+   "II",
+   "2",
+   "23 dicembre 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC02-0300": {
+  "meta": [
+   "II",
+   "3",
+   "30 dicembre 1909"
+  ],
+  "maxpage": null
+ },
+ "VOC02-0400": {
+  "meta": [
+   "II",
+   "4",
+   "6 gennaio 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-0500": {
+  "meta": [
+   "II",
+   "5",
+   "13 gennaio 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-0600": {
+  "meta": [
+   "II",
+   "6",
+   "20 gennaio 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-0700": {
+  "meta": [
+   "II",
+   "7",
+   "27 gennaio 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-0800": {
+  "meta": [
+   "II",
+   "8",
+   "3 febbraio 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-0900": {
+  "meta": [
+   "II",
+   "9",
+   "10 febbraio 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-1000": {
+  "meta": [
+   "II",
+   "10",
+   "17 febbraio 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-1100": {
+  "meta": [
+   "II",
+   "11",
+   "24 febbraio 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-1200": {
+  "meta": [
+   "II",
+   "12",
+   "3 marzo 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-1300": {
+  "meta": [
+   "II",
+   "13",
+   "10 marzo 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-1400": {
+  "meta": [
+   "II",
+   "14",
+   "17 marzo 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-1500": {
+  "meta": [
+   "II",
+   "15",
+   "24 marzo 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-1600": {
+  "meta": [
+   "II",
+   "16",
+   "31 marzo 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-1700": {
+  "meta": [
+   "II",
+   "17",
+   "7 aprile 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-1800": {
+  "meta": [
+   "II",
+   "18",
+   "14 aprile 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-1900": {
+  "meta": [
+   "II",
+   "19",
+   "21 aprile 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-2000": {
+  "meta": [
+   "II",
+   "20",
+   "28 aprile 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-2100": {
+  "meta": [
+   "II",
+   "21",
+   "5 maggio 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-2200": {
+  "meta": [
+   "II",
+   "22",
+   "12 maggio 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-2300": {
+  "meta": [
+   "II",
+   "23",
+   "19 maggio 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-2400": {
+  "meta": [
+   "II",
+   "24",
+   "26 maggio 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-2500": {
+  "meta": [
+   "II",
+   "25",
+   "2 giugno 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-2600": {
+  "meta": [
+   "II",
+   "26",
+   "9 giugno 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-2700": {
+  "meta": [
+   "II",
+   "27",
+   "16 giugno 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-2800": {
+  "meta": [
+   "II",
+   "28",
+   "23 giugno 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-2900": {
+  "meta": [
+   "II",
+   "29",
+   "30 giugno 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-3000": {
+  "meta": [
+   "II",
+   "30",
+   "7 luglio 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-3100": {
+  "meta": [
+   "II",
+   "31",
+   "14 luglio 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-3200": {
+  "meta": [
+   "II",
+   "32",
+   "21 luglio 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-3300": {
+  "meta": [
+   "II",
+   "33",
+   "28 luglio 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-3400": {
+  "meta": [
+   "II",
+   "34",
+   "4 agosto 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-3500": {
+  "meta": [
+   "II",
+   "35",
+   "11 agosto 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-3600": {
+  "meta": null,
+  "maxpage": null
+ },
+ "VOC02-3700": {
+  "meta": [
+   "II",
+   "37",
+   "25 agosto 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-3800": {
+  "meta": [
+   "II",
+   "38",
+   "1 settembre 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-3900": {
+  "meta": [
+   "II",
+   "39",
+   "8 settembre 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-4000": {
+  "meta": [
+   "II",
+   "40",
+   "15 settembre 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-4100": {
+  "meta": [
+   "II",
+   "41",
+   "22 settembre 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-4200": {
+  "meta": [
+   "II",
+   "42",
+   "29 settembre 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-4300": {
+  "meta": [
+   "II",
+   "43",
+   "6 ottobre 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-4400": {
+  "meta": [
+   "II",
+   "44",
+   "13 ottobre 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-4500": {
+  "meta": [
+   "II",
+   "45",
+   "20 ottobre 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-4600": {
+  "meta": [
+   "II",
+   "46",
+   "27 ottobre 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-4700": {
+  "meta": [
+   "II",
+   "47",
+   "3 novembre 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-4800": {
+  "meta": [
+   "II",
+   "48",
+   "10 novembre 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-4900": {
+  "meta": [
+   "II",
+   "49",
+   "17 novembre 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-5000": {
+  "meta": [
+   "II",
+   "50",
+   "24 novembre 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-5100": {
+  "meta": [
+   "II",
+   "51",
+   "1 dicembre 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-5200": {
+  "meta": [
+   "II",
+   "52",
+   "8 dicembre 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-5300": {
+  "meta": [
+   "II",
+   "53",
+   "15 dicembre 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-5400": {
+  "meta": [
+   "II",
+   "54",
+   "22 dicembre 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC02-5500": {
+  "meta": [
+   "II",
+   "55",
+   "29 dicembre 1910"
+  ],
+  "maxpage": null
+ },
+ "VOC03-0100": {
+  "meta": [
+   "III",
+   "1",
+   "5 gennaio 1911"
+  ],
+  "maxpage": null
+ },
+ "VOC03-0200": {
+  "meta": [
+   "III",
+   "2",
+   "12 gennaio 1911"
+  ],
+  "maxpage": null
+ },
+ "VOC03-0300": {
+  "meta": [
+   "III",
+   "3",
+   "19 gennaio 1911"
+  ],
+  "maxpage": null
+ }
+}
